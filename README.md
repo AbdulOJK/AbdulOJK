@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdulOJK
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently in my second year of University
-- 💞️ I’m looking to collaborate on Linear Algebra and Machine Learning
+- 🌱 I’m a recent University Graduate
 - 📫 How to reach me my @abdulbasitojikutu25@gmail.com
 
 <!---
